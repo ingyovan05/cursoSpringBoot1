@@ -45,7 +45,7 @@ public class UserRestController {
     // users.add(user2);
     // users.add(user3);
 
-    List<User> users = Arrays.asList(user1,user2,user3);
+    List<User> users = Arrays.asList(user1, user2, user3);
 
     return users;
 
